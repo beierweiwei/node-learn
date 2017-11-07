@@ -1,6 +1,5 @@
 /*
 fs.readFile(path[, options], callback)#
-查看英文版 / 查看英文md文件 / 编辑中文md文件
 
 版本历史
 path <string> | <Buffer> | <URL> | <integer> 文件名或文件描述符。
