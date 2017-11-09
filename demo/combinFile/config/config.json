@@ -1,0 +1,7 @@
+{
+	"root": "./",
+	"MIME": {
+		".js": "application/javascript",
+		".css": "text/css"
+	}
+}
