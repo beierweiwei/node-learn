@@ -1,0 +1,20 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "a demo for koa",
+  "main": "index.js",
+  "dependencies": {
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "koa",
+    "node"
+  ],
+  "author": "a.wang",
+  "license": "ISC"
+}
